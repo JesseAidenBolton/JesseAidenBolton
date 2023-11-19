@@ -1,4 +1,4 @@
-![Banner](/banner3.jpg)
+![Banner](/banner3.png)
 # Hello! I'm Jesse 👋
 
 I'm a software developer based in Melbourne, Australia. Passionate about building beautiful, performant, and accessible applications, I bring a unique blend of creativity and technical precision to the world of software development.
