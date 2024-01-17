@@ -3,7 +3,7 @@
 
 I'm a software developer based in Melbourne, Australia. Passionate about building beautiful, performant, and accessible applications, I bring a unique blend of creativity and technical precision to the world of software development.
 
-👨‍💻 I specialize in front-end development with a keen eye for user-centric design.  
+👨‍💻 I specialize in Full-stack development with a keen eye for user-centric design.  
 🌐 Currently diving deep into modern JavaScript frameworks and exploring full-stack capabilities.  
 ✍️ I share insights and write articles about my development journey on [DEV.to](https://dev.to/jesseaidenbolton).  
 ⚡ Fun fact: I started my career journey in character animation before fully embracing the code that powers the visuals.  
